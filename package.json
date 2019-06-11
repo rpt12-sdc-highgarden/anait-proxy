@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rpt12-knightrider/sm-proxy.git"
+    "url": "git+https://github.com/rpt12-sdc-highgarden/anait-proxy.git"
   },
-  "author": "Steve Miller",
+  "author": "Anait Balayan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rpt12-knightrider/sm-proxy/issues"
+    "url": "https://github.com/rpt12-sdc-highgarden/anait-proxy/issues"
   },
-  "homepage": "https://github.com/rpt12-knightrider/sm-proxy#readme",
+  "homepage": "https://github.com/rpt12-sdc-highgarden/anait-proxy#readme",
   "dependencies": {
     "express": "^4.16.4",
     "react": "^16.8.6",
